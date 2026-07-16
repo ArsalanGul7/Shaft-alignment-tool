@@ -1,16 +1,16 @@
 # Python cache files
 __pycache__/
-*.pyc
+*.py[cod]
 
 # Virtual environment
 venv/
 
-# Generated reports
-reports/*.txt
-
 # VS Code settings
 .vscode/
 
-# Operating system files
+# Generated reports
+reports/*.txt
+
+# OS files
 .DS_Store
 Thumbs.db
