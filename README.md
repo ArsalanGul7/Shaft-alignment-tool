@@ -66,14 +66,14 @@ Shaft-alignment-tool
 Clone the repository:
 ```bash
 git clone https://github.com/ArsalanGul7/Shaft-alignment-tool.git
-# Navigate to the application folder:
+Navigate to the application folder:
 cd Shaft-alignment-tool
-# Run the application:
+Run the application:
 python src/main.py
-## Generated Reports
-## Alignment reports are automatically created in:
+# Generated Reports
+Alignment reports are automatically created in:
 reports/
-## Future Improvements
+# Future Improvements
 Planned features:
 Horizontal shaft alignment calculations
 Soft foot detection
@@ -81,7 +81,7 @@ Thermal growth compensation
 PDF engineering reports
 Excel report export
 Windows executable packaging
-## Author
+# Author
 Syed Arsalan Gul
-## License
+# License
 MIT License
