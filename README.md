@@ -1,6 +1,17 @@
 # Shaft Alignment Tool
 
 An open-source Python application for industrial shaft alignment calculations and maintenance reporting.
+## Download Windows Application
+
+The latest Windows executable is available here:
+
+[Download Shaft Alignment Tool v1.0.0](https://github.com/ArsalanGul7/Shaft-alignment-tool/releases/tag/v1.0.0)
+
+### Windows Users
+1. Download:
+Shaft Alignment Tool.exe
+2. Double-click the application.
+3. No Python installation is required.
 
 ---
 
