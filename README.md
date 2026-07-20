@@ -3,7 +3,7 @@
 An open-source Python application for industrial shaft alignment calculations and maintenance reporting.
 ## Project History
 
-This application was originally developed in **March 2025** as an internal engineering utility for **Global Enterprise**. The software was created to automate shaft alignment calculations, standardize engineering workflows, and generate maintenance reports for rotating equipment commissioning.
+This application was originally developed in **May 2025** as an internal engineering utility for **Global Enterprises**. The software was created to automate shaft alignment calculations, standardize engineering workflows, and generate maintenance reports for rotating equipment commissioning.
 
 Following internal use and with the organization's approval, the project was later refactored into a modular open-source codebase and published on GitHub to demonstrate the engineering methodology and software architecture.
 
